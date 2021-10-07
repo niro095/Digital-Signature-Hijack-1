@@ -9,7 +9,7 @@ Hijacking legitimate digital signatures is a technique that can be used during r
 This is achieved by hijacking the registry and adding the necessary values and by utilizing the custom SIP dll file that Matt Graeber developed. Users need to modify the path of MySIP.dll to their local path.
 
 * [MySIP.dll](https://github.com/netbiosX/Digital-Signature-Hijack/raw/master/Hijack-Certificates/MySIP.dll) - https://github.com/mattifestation/PoCSubjectInterfacePackage
-
+* [SpecterOps_Subverting_Trust_in_Windows.pdf](https://specterops.io/assets/resources/SpecterOps_Subverting_Trust_in_Windows.pdf)
 # Demo
 ## Signing Portable Executables
 ```
